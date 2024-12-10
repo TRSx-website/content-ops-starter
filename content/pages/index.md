@@ -95,9 +95,9 @@ sections:
       - title: Proven AI Applications
         subtitle: 'Practical, Industry-Tested AI Solutions'
         text: >
-          Our team has built successful AI-powered tools for education,
-          agritech, and business operations, focusing on practical applications
-          that deliver measurable results.
+          Our team has built AI-powered tools for education, agritech, and
+          business operations, focusing on practical applications that deliver
+          measurable results.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
