@@ -69,8 +69,7 @@ sections:
         text: >
           With combined decades of software development and customer experience
           expertise, we build solutions that are reliable, scalable, and focused
-          on solving the key issues all while being beautifully designed with
-          the end users in mind.
+          on solving the key issues all while beautifully designed.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
