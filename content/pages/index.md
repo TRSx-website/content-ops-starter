@@ -55,7 +55,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: 'Expertise that Matters, Solutions that Deliver'
       color: text-dark
       styles:
         self:
