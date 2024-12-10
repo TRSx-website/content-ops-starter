@@ -151,7 +151,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: Why Companies Work With Us
+      label: "Why\_ Work With Us"
       color: text-primary
       styles:
         self:
