@@ -264,7 +264,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: LET ai transform your business
+      label: transform your business
       color: text-primary
       styles:
         self:
