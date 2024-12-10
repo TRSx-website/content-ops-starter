@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Building Custom Software Solutions with AI Expertise
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
