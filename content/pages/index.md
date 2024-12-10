@@ -12,8 +12,8 @@ sections:
       your toughest challenges.
     text: >
       At ThisRightStuff Development, we craft tailor-made software solutions
-      using AI (especially LLM AI) and product expertise to help businesses
-      achieve their goals efficiently and effectively.
+      using AI (especially LLM AI) and to help businesses achieve their goals
+      efficiently and effectively.
     actions:
       - label: Get started
         altText: ''
