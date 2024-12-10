@@ -151,7 +151,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: "Why\_ Work With Us"
+      label: Our Advantages
       color: text-primary
       styles:
         self:
