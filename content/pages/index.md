@@ -67,9 +67,10 @@ sections:
         title: 32+ Years of Expertise
         subtitle: Trusted Experience Across Industries
         text: >
-          Decades of experience in software and product development to create
-          solutions that last and are beautifully designed with the end users in
-          mind.
+          With combined decades of software development and customer experience
+          expertise, we build solutions that are reliable, scalable, and focused
+          on solving the key issues all while being beautifully designed with
+          the end users in mind.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
