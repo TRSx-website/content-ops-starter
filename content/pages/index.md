@@ -64,7 +64,7 @@ sections:
     subtitle: OUR ADVANTAGES
     items:
       - type: FeaturedItem
-        title: 32+ Years of Expertise*
+        title: 32+ Years of Expertise
         subtitle: Of Combined Experience
         text: >
           Decades of experience in software and product development to create
