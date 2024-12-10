@@ -65,7 +65,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 32+ Years of Expertise
-        subtitle: Of Combined Experience
+        subtitle: Trusted Experience Across Industries
         text: >
           Decades of experience in software and product development to create
           solutions that last and are beautifully designed with the end users in
