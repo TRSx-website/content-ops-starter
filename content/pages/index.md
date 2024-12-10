@@ -238,11 +238,10 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Connect your data and empower your organization.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Unify your data and transform it into actionable insights with solutions
+      that integrate seamlessly across your organization. Empower your team with
+      seamless access to information that fuels innovation and growth.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
