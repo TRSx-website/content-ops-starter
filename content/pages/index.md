@@ -151,7 +151,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: Why Businesses Choose US
+      label: OUR ADVANTAGES
       color: text-primary
       styles:
         self:
