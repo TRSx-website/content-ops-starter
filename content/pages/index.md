@@ -66,10 +66,9 @@ sections:
       - type: FeaturedItem
         title: 32+ Years
         subtitle: Of Experience
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Decades of experience in software and product development to create
+          solutions that last.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
