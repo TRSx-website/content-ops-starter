@@ -170,7 +170,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Cutting-Edge Technologies Used
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
