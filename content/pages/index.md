@@ -11,9 +11,9 @@ sections:
       Decades of software expertise paired with real-world AI knowledge to solve
       your toughest challenges.
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      At AI Dev House, we craft tailor-made software solutions using AI
+      (especially LLM AI) to help businesses achieve their goals efficiently and
+      effectively.
     actions:
       - label: Get started
         altText: ''
