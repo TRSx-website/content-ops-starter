@@ -7,7 +7,9 @@ sections:
       text: Building Custom Software Solutions with AI Expertise
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Decades of software expertise paired with real-world AI knowledge to solve
+      your toughest challenges.
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
