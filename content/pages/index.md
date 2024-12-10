@@ -55,7 +55,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Why Companies Work With Us
+      text: 'Real Expertise, Real Solutions'
       color: text-dark
       styles:
         self:
