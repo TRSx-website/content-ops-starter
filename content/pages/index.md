@@ -64,7 +64,7 @@ sections:
     subtitle: OUR ADVANTAGES
     items:
       - type: FeaturedItem
-        title: 33+ Years
+        title: 32+ Years
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
