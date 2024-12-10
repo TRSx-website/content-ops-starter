@@ -692,8 +692,9 @@ sections:
       type: TitleBlock
     subtitle: Collaborate with us to solve your toughest challenges.
     text: >
-      Looking for a partner to create custom platform software for your business
-      needs? Let’s discuss how we can help you build smarter systems.  
+      Looking for a partner to create custom platform software and custom AI
+      solutions for your business needs? Let’s discuss how we can help you build
+      smarter systems.
     media:
       fields:
         - name: name
