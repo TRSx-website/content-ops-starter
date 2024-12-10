@@ -39,7 +39,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: AI product development
+      label: TRS Development
       color: text-primary
       type: Badge
     elementId: ''
