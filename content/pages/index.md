@@ -94,10 +94,11 @@ sections:
               borderRadius: x-large
       - title: Proven AI Applications
         subtitle: 'Practical, Industry-Tested AI Solutions'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our team has built successful AI-powered tools for education,
+          agritech, and business operations, focusing on practical applications
+          that deliver measurable results while avoiding the problems that often
+          plagued LLM AIs.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
