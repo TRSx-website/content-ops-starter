@@ -151,7 +151,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: KEY BENEFITS
+      label: Why Businesses Choose THIS RIGHT STUFF
       color: text-primary
       styles:
         self:
