@@ -264,7 +264,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: LET ai transform your business
       color: text-primary
       styles:
         self:
