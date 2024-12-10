@@ -118,7 +118,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: End-to-End Solutions
-        subtitle: Faster
+        subtitle: Complete Turnkey Systems Tailored to Your Business
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
