@@ -151,7 +151,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: ABOUT US
+      label: KEY BENEFITS
       color: text-primary
       styles:
         self:
