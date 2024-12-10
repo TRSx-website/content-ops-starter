@@ -55,7 +55,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: 'Expertise that Matters, Solutions that Deliver'
+      text: Why Companies Work With Us
       color: text-dark
       styles:
         self:
