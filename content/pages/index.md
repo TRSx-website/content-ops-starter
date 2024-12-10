@@ -11,9 +11,9 @@ sections:
       Decades of software expertise paired with real-world AI knowledge to solve
       your toughest challenges.
     text: >
-      At AI Dev House, we craft tailor-made software solutions using AI
-      (especially LLM AI) to help businesses achieve their goals efficiently and
-      effectively.
+      At ThisRightStuff Development, we craft tailor-made software solutions
+      using AI (especially LLM AI) to help businesses achieve their goals
+      efficiently and effectively.
     actions:
       - label: Get started
         altText: ''
