@@ -151,7 +151,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: Why Businesses Choose THIS RIGHT STUFF
+      label: Why Businesses Choose US
       color: text-primary
       styles:
         self:
