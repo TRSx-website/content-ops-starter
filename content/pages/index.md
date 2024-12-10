@@ -67,9 +67,9 @@ sections:
         title: 32+ Years of Expertise
         subtitle: Trusted Experience Across Industries
         text: >
-          With combined decades of software development and customer experience
-          expertise, we build solutions that are reliable, scalable, and focused
-          on solving the key issues all while beautifully designed.
+          With decades of experience in software development and product
+          expertise, we craft scalable, reliable systems that solve real-world
+          problems
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
