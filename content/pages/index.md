@@ -55,7 +55,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: 'Real Expertise, Real Solutions'
+      text: What Makes Us Different
       color: text-dark
       styles:
         self:
