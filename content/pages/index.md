@@ -170,7 +170,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Cutting-Edge Technologies Used
+  - subtitle: Cutting-Edge Technologies
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
