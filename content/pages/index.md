@@ -119,10 +119,10 @@ sections:
         type: FeaturedItem
       - title: End-to-End Solutions
         subtitle: Complete Turnkey Systems Tailored to Your Business
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We provide full-service delivery, from identifying your challenges to
+          developing custom, comprehensive systems that meet your business’s
+          specific needs.  
         image:
           url: /images/icon3.svg
           altText: Featured icon three
