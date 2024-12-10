@@ -39,7 +39,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: AI product development
+      label: your ai product partner
       color: text-primary
       type: Badge
     elementId: ''
