@@ -691,11 +691,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Collaborate with us to solve your toughest challenges.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Looking for a partner to create custom platform software for your business
+      needs? Let’s discuss how we can help you build smarter systems.  
     media:
       fields:
         - name: name
