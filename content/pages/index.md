@@ -93,7 +93,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Proven AI Applications
-        subtitle: Proven AI Applications
+        subtitle: 'Practical, Industry-Tested AI Solutions'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
